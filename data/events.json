@@ -1,0 +1,1 @@
+[null,{"name":"Join","temp":"join","event-type":"6","_id":"GcWpS","actions":[{"channel":"4","varName":"","message":"Witaj  ${tempVars(\"join\")} na serwerze MultiSquad","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}]
